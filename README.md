@@ -6,15 +6,13 @@ A deep learning solution for classifying brain tumors from MRI images into Menin
 
 ## 📌 Table of Contents
 - [Features](#-features)
-- [Demo](#-demo)
-- [Installation](#-installation)
 - [Dataset Preparation](#-dataset-preparation)
 - [Usage](#-usage)
 - [Model Architecture](#-model-architecture)
 - [Training Process](#-training-process)
 - [Results](#-results)
 - [FAQ](#-faq)
-- [License](#-license)
+
 
 ## ✨ Features
 - **Class Imbalance Handling**: Automatic class weighting

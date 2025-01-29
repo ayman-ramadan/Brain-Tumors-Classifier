@@ -1,5 +1,3 @@
-# Brain-Tumors-Classifier
-
 # 🧠 Brain Tumor Classification using Transfer Learning
 
 A deep learning solution for classifying brain tumors from MRI images into Menin and Glioma categories using ResNet50 and TensorFlow/Keras.

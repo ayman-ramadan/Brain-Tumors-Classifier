@@ -1,10 +1,6 @@
 # Brain-Tumors-Classifier
-Here's a polished **GitHub-style README.md** with visuals and detailed documentation:
 
-```markdown
 # 🧠 Brain Tumor Classification using Transfer Learning
-
-![Brain MRI Example](https://example.com/brain_mri.jpg) *Example MRI Scans (Menin vs Glioma)*
 
 A deep learning solution for classifying brain tumors from MRI images into Menin and Glioma categories using ResNet50 and TensorFlow/Keras.
 
